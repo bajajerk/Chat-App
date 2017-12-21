@@ -1,7 +1,10 @@
 source 'https://rubygems.org'
 
 gem 'rails',                   '5.0.1'
+
+ # Gem to use #has_secure_password , save a encrypted pass
 gem 'bcrypt',                  '3.1.11'
+
 gem 'faker',                   '1.6.6'
 gem 'puma',                    '3.4.0'
 gem 'sass-rails',              '5.0.6'
